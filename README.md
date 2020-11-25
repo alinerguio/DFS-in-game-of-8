@@ -4,6 +4,14 @@
 
 Esse trabalho foi desenvolvido por Alice Ribeiro e Aline Guimarães para a disciplina de Inteligência Artificial, com dois de métodos de buscas aplicados ao jogo dos 8: heurística gulosa e busca em profundidade.
 
+## Arquivos
+
+notebookDFS.ipynb: notebook contendo código em python de uma busca em profundidade e documentação de seus métodos.
+
+notebookGulosa.ipynb: notebook contendo código em python de uma heurística gulosa com três critérios diferentes e documentação de seus métodos.
+
+main.ipynb: notebook contendo importação dos dois outros notebooks e com código para execução das buscas com entradas estáticas (estabelecidas no código) e possibilidade de input de matriz. Seus métodos também estão documentados. 
+
 ## Requistos
 
 Para rodar o código você precisará dos seguintes requisitos:  
